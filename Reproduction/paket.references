@@ -1,0 +1,4 @@
+FSharp.Core
+Amazon.CDK
+Amazon.CDK.AWS.S3
+Amazon.CDK.AWS.S3.Deployment
